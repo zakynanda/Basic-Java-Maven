@@ -8,7 +8,7 @@ public class CounterTest {
 
 	@Test
 	public void testReset() {
-		Counter testCounter = new Counter();
+		Counter testCounterss = new Counter();
 		
 		for(int i = 0; i <10; i++) {
 			testCounter.increment();
